@@ -1,0 +1,1 @@
+`enca index.htm -L czech -x utf-8` #detect and convert from bullshit encoding to utf8
