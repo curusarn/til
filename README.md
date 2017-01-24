@@ -7,4 +7,4 @@
 
 ## Websites
 `curl http://wttr.in/` - **get weather in ASCII** using your terminal or browser.  
-http://forked.yannick.io/ - **find maintained forks** of your favorite GitHub repos.
+[http://forked.yannick.io/](http://forked.yannick.io) - **find maintained forks** of your favorite GitHub repos.
