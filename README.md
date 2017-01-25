@@ -6,5 +6,5 @@
 `vim -p $(grep -rl '#warn')` - **open all files containing** "*#warn*" as tabs in vim. search current directory recursively.
 
 ## Websites
-`curl http://wttr.in/` - **get weather in ASCII** using your terminal or browser.  
+`curl `[http://wttr.in/](http://wttr.in/) - **get weather in ASCII** using your terminal or browser.  
 [http://forked.yannick.io/](http://forked.yannick.io) - **find maintained forks** of your favorite GitHub repos.
