@@ -12,3 +12,8 @@
 `curl `[http://wttr.in/](http://wttr.in/) - **get weather in ASCII** using your terminal or browser.  
 
 [http://forked.yannick.io/](http://forked.yannick.io) - **find maintained forks** of your favorite GitHub repos.
+
+## Facts
+
+Python searches `/usr/local/lib/python...` before `/usr/lib/python...` - it had caused me problems.
+
