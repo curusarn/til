@@ -17,3 +17,6 @@
 
 Python searches `/usr/local/lib/python...` before `/usr/lib/python...` - it had caused me problems.
 
+## Design
+
+Many tools are bound to a single directory - this greatly simplifies usage of the tool by reducing the amount of possibilities. (`Makefile`, `Dockerfile`, `Rakefile`, etc.) 
