@@ -8,6 +8,10 @@
 ## Hacks
 `vim -p $(grep -rl '#warn')` - **open all files containing** "*#warn*" as tabs in vim. search current directory recursively.
 
+## Tools
+
+https://lvc.github.io/pkgdiff/ - An awesome tool for visualizing changes in Linux software packages 
+
 ## Websites
 `curl `[http://wttr.in/](http://wttr.in/) - **get weather in ASCII** using your terminal or browser.  
 
