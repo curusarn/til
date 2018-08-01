@@ -21,6 +21,9 @@ https://lvc.github.io/pkgdiff/ - An awesome tool for visualizing changes in Linu
 
 Python searches `/usr/local/lib/python...` before `/usr/lib/python...` - it had caused me problems.
 
+`getopts` is a (POSIX) shell builtin that can parse simple arguments.   
+`getopt` is an external command (GNU and BSD variants) that can parse all kinds of arguments. 
+
 ## Design
 
 Many tools are bound to a single directory - this greatly simplifies usage of the tool by reducing the amount of possibilities. (`Makefile`, `Dockerfile`, `Rakefile`, etc.) 
