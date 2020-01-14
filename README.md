@@ -15,7 +15,7 @@ https://lvc.github.io/pkgdiff/ - An awesome tool for visualizing changes in Linu
 ## Websites
 `curl `[http://wttr.in/](http://wttr.in/) - **get weather in ASCII** using your terminal or browser.  
 
-[http://forked.yannick.io/](http://forked.yannick.io) - **find maintained forks** of your favorite GitHub repos.
+[https://github-forks.abumalick.com/](https://github-forks.abumalick.com/) - **find maintained forks** of your favorite GitHub repos.
 
 ## Facts
 
