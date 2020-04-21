@@ -1,3 +1,8 @@
+## Magic
+
+Vector terminal screenshots: xterm > CTRL+left_mouse_button > svg screen dump
+
+
 ## Commands
 `enca file.txt -L czech` - **detect encoding** of the *file.txt*, assume it's in *czech*. 
 
